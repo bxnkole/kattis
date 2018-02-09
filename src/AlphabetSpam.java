@@ -29,5 +29,7 @@ public class AlphabetSpam {
         System.out.println(Double.valueOf(upperCount) / Double.valueOf(total));
         System.out.println(Double.valueOf(symbol) / Double.valueOf(total));
 
+
+
     }
 }
